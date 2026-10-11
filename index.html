@@ -1,0 +1,185 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>One More Chapter ❤️</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+    <div class="background-glow"></div>
+    <div id="hearts-container"></div>
+
+    <!-- INTRO SECTION -->
+    <section id="intro" class="screen active">
+
+        <div class="intro-content">
+
+            <div class="small-heart">♥</div>
+
+            <p class="eyebrow">A LITTLE SOMETHING FOR YOU</p>
+
+            <h1>One More <span>Chapter</span></h1>
+
+            <p class="intro-description">
+                Some stories are too special to give up on.
+                <br>
+                And ours will always mean something to me.
+            </p>
+
+            <button class="main-button" onclick="startStory()">
+                Open My Heart <span>♡</span>
+            </button>
+
+            <p class="bottom-note">Made with love, just for you.</p>
+
+        </div>
+
+    </section>
+
+
+    <!-- MEMORIES SECTION -->
+    <section id="memories" class="screen">
+
+        <div class="section-content">
+
+            <p class="eyebrow">CHAPTER ONE</p>
+
+            <h2>Our Little <span>World</span></h2>
+
+            <p class="section-description">
+                Out of all the people in this world,
+                I'm grateful that our paths crossed.
+            </p>
+
+            <div class="photo-grid">
+
+                <div class="photo-card">
+                    <img src="images/photo1.jpg" alt="Our memory one">
+                    <p>A moment I'll always remember.</p>
+                </div>
+
+                <div class="photo-card">
+                    <img src="images/photo2.jpg" alt="Our memory two">
+                    <p>A smile that means so much to me.</p>
+                </div>
+
+                <div class="photo-card">
+                    <img src="images/photo3.jpg" alt="Our memory three">
+                    <p>One of my favorite memories.</p>
+                </div>
+
+                <div class="photo-card">
+                    <img src="images/photo4.jpg" alt="Our memory four">
+                    <p>A little piece of our story.</p>
+                </div>
+
+            </div>
+
+            <button class="main-button" onclick="showSection('letter')">
+                There's Something I Need to Say →
+            </button>
+
+        </div>
+
+    </section>
+
+
+    <!-- LETTER SECTION -->
+    <section id="letter" class="screen">
+
+        <div class="letter-card">
+
+            <div class="letter-icon">💌</div>
+
+            <p class="eyebrow">CHAPTER TWO</p>
+
+            <h2>A Letter From <span>My Heart</span></h2>
+
+            <div id="letter-text" class="letter-text"></div>
+
+            <button id="letter-button" class="main-button hidden"
+                    onclick="showSection('future')">
+
+                One Last Thing ❤️
+
+            </button>
+
+        </div>
+
+    </section>
+
+
+    <!-- FINAL SECTION -->
+    <section id="future" class="screen">
+
+        <div class="future-content">
+
+            <div class="big-heart">♥</div>
+
+            <p class="eyebrow">CHAPTER THREE</p>
+
+            <h2>One More <span>Chapter?</span></h2>
+
+            <p class="future-message">
+                I know a beautiful story isn't made of perfect moments.
+                <br><br>
+
+                It's made of two people who are willing to understand
+                each other, learn from their mistakes, and keep choosing
+                to treat each other with love and respect.
+                <br><br>
+
+                I can't change what happened, but I can take responsibility
+                for my part and show you that I'm willing to do better.
+            </p>
+
+            <p class="final-question">
+                Would you let me try to make things right? ❤️
+            </p>
+
+            <button class="main-button" onclick="showFinalMessage()">
+                Let's Talk ❤️
+            </button>
+
+            <div id="final-message" class="final-message hidden">
+
+                <h3>Thank You for Hearing Me. ❤️</h3>
+
+                <p>
+                    You don't have to have all the answers right now.
+                    I just hope we can talk, understand each other,
+                    and take things one step at a time.
+                </p>
+
+                <p class="signature">
+                    With all my heart,<br>
+                    Yours ❤️
+                </p>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <footer>
+        <p>Our story matters. Every chapter. ♡</p>
+    </footer>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
+```
