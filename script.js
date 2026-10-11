@@ -2,30 +2,38 @@
 // 1. PERSONAL APOLOGY LETTER
 // =====================================
 
-const apologyLetter = `My love,
+const apologyLetter = `Rana habibt albii,
 
-I've been thinking about what happened,
-and I don't want to pretend that everything is okay
-when I know that I hurt you.
+Ana msh ayzk tz3aly mni wla tday'y mni m'darsh az3alek
+wana kman oltlk z3alek dh andy eh w blnsbaly eh embarh
+enty ah madghota w msh ahssan haga w wallahi wana kman el saraha nfseyan msh kwis khales
 
-I'm sorry for my part in what happened.
-Your feelings matter to me, and I never want you
-to feel like they don't.
+mhma kan ely hassal yrana ehna tol omrena bn'dar aleh maa baad
+w bn3ady b kol haga ana msh hayygy w't w asebk wana oltlk dh abl keda
+eni omry ma h3ml maaki keda wla hta asebk f ay haga yrana wla dlw wla b3den
 
-I know that saying sorry isn't enough on its own.
-I want to listen to you, understand how you feel,
-and show you through my actions that I'm willing
-to do better.
+wana 2alk dh yrana enty hob hayaty w hayaty kolaha
+el kalam dh kber gdn arfa yaani eh dy haga kbera gdn enty bas meday'a w mzzargena 
+wana gnbk bardu w hfdl tol omry gnbk msh hasebk ashan dh andy msh option assasn 
+enty blnsbaly kol haga fel doinya w ahla haga kman fel doinya kolaha wenty arfa ana bahbk ad eh 
 
-I'm not making this little website because I expect
-everything to be fixed with a few words.
-I'm making it because you mean so much to me,
-and I wanted to do something from my heart.
+wla ana wla enty kwiseen enty arfa ana msh kwis mn eh w dh m'sar alya nfseyan bshkl kber
+wenty kman msh kwisa el ayam dy bas ana bardu mask beki w bgd ba'y aleki f kol sanya w kol lahza
+enty blnsbaly kol haga f hayaty w ana oltlk eni hsthmlk w f3ln b3ml keda w msh hstghna 3nk f youm mn el ayam
+ana f3ln bahbk w bkhtark f kol mra w mn kol albi yrana ana mask feki hta wenty keda ashan hagat kter gdn
 
-You deserve love, honesty, patience, and respect.
-And I want to keep learning how to give you that.
+bas bardu roghm kol haga ana feha ana agy asalhk w a'olk ha'k alaya matz3lesh mni abadan
+wana kman meday' mnk bas ana aref enk htradeni mot'aked 
+mafish had hyygy yheb kol wahed fena bnfs el tare'a dy keda ana hayaty kolaha leki yrana
+w msh htbaa lgherk abadan
+ehna 3adena bly as3ab mn keda yrana msh hnegy ala el khafif dh w n3ml keda 
+w dh asln blnsbalna msh haga yaani blnsba lely fat 
+aref en kol dh yemkn trakomat mnk wana oltlk eni msh meday' w mesthml en dh tl3 3laya ana
+wana mardy ashan howa mnk asln shayfa ana bahbk le anhy daraga 
+wana msh hsmah eni aroh baad keda adawar aleki f had tani ana msh h3ml keda abadan 
+wenty asln blnsbaly wallahi mat3rafy blnsbaly amla ezay wla ana hatek andy fen
 
-I'm sorry. ❤️`;
+BAHBK moutt bamouttt fekii b3sha'kkk dy olayela❤️`;
 
 
 // =====================================
